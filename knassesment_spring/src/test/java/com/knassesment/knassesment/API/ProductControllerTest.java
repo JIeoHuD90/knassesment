@@ -1,5 +1,6 @@
 package com.knassesment.knassesment.API;
 
+import com.knassesment.knassesment.controller.ProductController;
 import com.knassesment.knassesment.entity.Product;
 import com.knassesment.knassesment.service.ProductService;
 import org.junit.jupiter.api.BeforeEach;

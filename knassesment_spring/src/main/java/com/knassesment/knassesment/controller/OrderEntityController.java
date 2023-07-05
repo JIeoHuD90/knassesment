@@ -1,4 +1,4 @@
-package com.knassesment.knassesment.API;
+package com.knassesment.knassesment.controller;
 
 import com.knassesment.knassesment.entity.OrderEntity;
 import com.knassesment.knassesment.service.OrderEntityService;
